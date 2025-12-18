@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/pratham12312/MY_Portfolio.git/static/css/main.caa3d3e0.css",
+    "main.js": "/pratham12312/MY_Portfolio.git/static/js/main.c60c0743.js",
+    "static/js/453.15a626a8.chunk.js": "/pratham12312/MY_Portfolio.git/static/js/453.15a626a8.chunk.js",
+    "static/media/nasa-Q1p7bh3SHj8-unsplash.jpg": "/pratham12312/MY_Portfolio.git/static/media/nasa-Q1p7bh3SHj8-unsplash.76183d22af78ff37820d.jpg",
+    "static/media/star_new_low.jpg": "/pratham12312/MY_Portfolio.git/static/media/star_new_low.67dc54fdae5def267dfe.jpg",
+    "static/media/pexels-magnus-mueller-1398178-2818118.jpg": "/pratham12312/MY_Portfolio.git/static/media/pexels-magnus-mueller-1398178-2818118.cd9452ad7f376a17fb51.jpg",
+    "index.html": "/pratham12312/MY_Portfolio.git/index.html",
+    "main.caa3d3e0.css.map": "/pratham12312/MY_Portfolio.git/static/css/main.caa3d3e0.css.map",
+    "main.c60c0743.js.map": "/pratham12312/MY_Portfolio.git/static/js/main.c60c0743.js.map",
+    "453.15a626a8.chunk.js.map": "/pratham12312/MY_Portfolio.git/static/js/453.15a626a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.caa3d3e0.css",
+    "static/js/main.c60c0743.js"
+  ]
+}
